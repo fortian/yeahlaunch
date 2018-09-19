@@ -129,7 +129,7 @@ Yeahlaunch has the following options:
 -fg color     foreground color (defaults to white)
 -afg color    highlight  color (defaults to yellow)
 -bg color     background color (defaults to black)
--x  number    x placement (defaults to 0)
+-x number     x placement (defaults to 0)
 -step number  step size for the animation(defaults to 3)
 -fn font name (defaults to fixed)
 -h            prints this help message
