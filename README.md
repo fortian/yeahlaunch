@@ -1,3 +1,12 @@
+# About
+
+(copied from the original README, which is included at the bottom)
+
+Yeahlaunch is a very simple application launcher which puts a horizontal menu
+on top of your screen.  The menu will be hidden and only a one pixel border will
+be visible.  If you point on that border the menu will be shown in an animated 
+way.
+
 # Installation
 
 Installation can be performed with:
@@ -7,7 +16,7 @@ make
 su -c "make -C `pwd` install"
 ```
 
-or, if you use sudo,
+or, if you use `sudo`,
 
 ```
 make
@@ -107,11 +116,11 @@ The blanks act as spacers between "program groups."
 
 - Leaving yeahlaunch sideways hides it as well now.
 
-# About
+# Original README
 
 Yeahlaunch is a very simple application launcher which puts a horizontal menu
-on top of your screen. The menu will be hidden and only a one pixel border will
-be visible. If you point on that border the menu will be shown in an animated 
+on top of your screen.  The menu will be hidden and only a one pixel border will
+be visible.  If you point on that border the menu will be shown in an animated 
 way.
 
 Yeahlaunch has the following options:
