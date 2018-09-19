@@ -158,5 +158,6 @@ Yeah "rox ~/yeah" \
 Vertikal "rox ~/vertikal" &
 ```
 
-Installation is done by a simple `make; make install` (if you like building
-things as root, or your everyday user account can write to `/usr/local/bin`).
+Installation is done by a simple `make; make install` (*therealbstern* adds:
+this only works if you like building things as root, or your everyday user account can write
+to `/usr/local/bin`).
